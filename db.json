@@ -1,5 +1,6 @@
 {
-  "messages": [
+  dashboard : {
+    "messages": [
     {
       "count": 10
     }
@@ -34,5 +35,6 @@
     "inbound": 30,
     "outbound": 20,
     "voicemail": 50
+  }
   }
 }
