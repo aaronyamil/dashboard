@@ -10,25 +10,25 @@
     {
       "number": "(814) 837-1271",
       "cw": true,
-      "dbd": true,
+      "dnd": true,
       "cf": false
     },
     {
       "number": "(814) 837-1272",
       "cw": false,
-      "dbd": true,
+      "dnd": true,
       "cf": false
     },
     {
       "number": "(814) 837-1273",
       "cw": true,
-      "dbd": true,
+      "dnd": true,
       "cf": true
     },
     {
       "number": "(814) 837-1274",
       "cw": false,
-      "dbd": false,
+      "dnd": false,
       "cf": false
     }
   ],
