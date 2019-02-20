@@ -1,41 +1,89 @@
 {
-  "dashboard" : {
-    "messages": 
-    {
-      "count": 10,
-      "time": "2m"
+  "dashboard": {
+    "messages": {
+      "count": 4,
+      "phones": [
+        {
+          "number": "(814) 837-1271",
+          "time": "Yesterday",
+          "missed": true
+        },
+        {
+          "number": "(814) 837-1272",
+          "time": "Feb 20, 2019",
+          "missed": true
+        },
+        {
+          "number": "(814) 837-1275",
+          "time": "Feb 20, 2019",
+          "missed": false
+        },
+        {
+          "number": "(814) 837-1277",
+          "time": "Feb 18, 2019",
+          "missed": true
+        },
+        {
+          "number": "(814) 837-1278",
+          "time": "Feb 10, 2019",
+          "missed": true
+        }
+      ]
+    },
+    "features": [
+      {
+        "number": "(814) 837-1271",
+        "cw": true,
+        "dnd": "Off",
+        "cf": "Off"
+      },
+      {
+        "number": "(814) 837-1272",
+        "cw": false,
+        "dnd": "Scheduled",
+        "cf": "Off"
+      },
+      {
+        "number": "(814) 837-1273",
+        "cw": true,
+        "dnd": "Customized",
+        "cf": true
+      },
+      {
+        "number": "(814) 837-1274",
+        "cw": false,
+        "dnd": "Off",
+        "cf": "Customized"
+      },
+      {
+        "number": "(814) 837-1275",
+        "cw": true,
+        "dnd": "Customized",
+        "cf": "Scheduled"
+      },
+      {
+        "number": "(814) 837-1276",
+        "cw": false,
+        "dnd": "Off",
+        "cf": "Customized"
+      },
+      {
+        "number": "(814) 837-1277",
+        "cw": true,
+        "dnd": "Scheduled",
+        "cf": "Customized"
+      },
+      {
+        "number": "(814) 837-1278",
+        "cw": false,
+        "dnd": "Customized",
+        "cf": "Off"
+      }
+    ],
+    "calls": {
+      "inbound": 30,
+      "outbound": 20,
+      "voicemail": 50
     }
-  ,
-  "features": [
-    {
-      "number": "(814) 837-1271",
-      "cw": true,
-      "dnd": true,
-      "cf": false
-    },
-    {
-      "number": "(814) 837-1272",
-      "cw": false,
-      "dnd": true,
-      "cf": false
-    },
-    {
-      "number": "(814) 837-1273",
-      "cw": true,
-      "dnd": true,
-      "cf": true
-    },
-    {
-      "number": "(814) 837-1274",
-      "cw": false,
-      "dnd": false,
-      "cf": false
-    }
-  ],
-  "calls" : {
-    "inbound": 30,
-    "outbound": 20,
-    "voicemail": 50
-  }
   }
 }
