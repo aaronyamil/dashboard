@@ -34,50 +34,50 @@
       {
         "number": "(814) 837-1271",
         "cw": true,
-        "dnd": "Off",
-        "cf": "Off"
+        "dnd": "- Off -",
+        "cf": "- Off -"
       },
       {
         "number": "(814) 837-1272",
         "cw": false,
-        "dnd": "Scheduled",
-        "cf": "Off"
+        "dnd": "- Scheduled -",
+        "cf": "- Off -"
       },
       {
         "number": "(814) 837-1273",
         "cw": true,
-        "dnd": "Customized",
-        "cf": true
+        "dnd": "- Customized -",
+        "cf": "- Off -"
       },
       {
         "number": "(814) 837-1274",
         "cw": false,
-        "dnd": "Off",
-        "cf": "Customized"
+        "dnd": "- Off -",
+        "cf": "- Customized -"
       },
       {
         "number": "(814) 837-1275",
         "cw": true,
-        "dnd": "Customized",
-        "cf": "Scheduled"
+        "dnd": "- Customized -",
+        "cf": "- Scheduled -"
       },
       {
         "number": "(814) 837-1276",
         "cw": false,
-        "dnd": "Off",
-        "cf": "Customized"
+        "dnd": "- Off -",
+        "cf": "- Customized -"
       },
       {
         "number": "(814) 837-1277",
         "cw": true,
-        "dnd": "Scheduled",
-        "cf": "Customized"
+        "dnd": "- Scheduled -",
+        "cf": "- Customized -"
       },
       {
         "number": "(814) 837-1278",
         "cw": false,
-        "dnd": "Customized",
-        "cf": "Off"
+        "dnd": "- Customized -",
+        "cf": "- Off -"
       }
     ],
     "calls": {
