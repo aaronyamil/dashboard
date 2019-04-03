@@ -6,27 +6,32 @@
         {
           "number": "(814) 837-1271",
           "time": "Yesterday",
-          "missed": true
+          "missed": true,
+          "Duration": "0:54"
         },
         {
           "number": "(814) 837-1272",
           "time": "Feb 20, 2019",
-          "missed": true
+          "missed": true,
+          "Duration": "0:34"
         },
         {
           "number": "(814) 837-1275",
           "time": "Feb 20, 2019",
-          "missed": false
+          "missed": false,
+          "Duration": "0:24"
         },
         {
           "number": "(814) 837-1277",
           "time": "Feb 18, 2019",
-          "missed": true
+          "missed": true,
+          "Duration": "0:14"
         },
         {
           "number": "(814) 837-1278",
           "time": "Feb 10, 2019",
-          "missed": true
+          "missed": true,
+          "Duration": "0:54"
         }
       ]
     },
